@@ -5,43 +5,41 @@ permalink: /about/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>
+As a DevOps Engineer, Joseph has over 3 years experience on different areas, including Linux & Windows Servers, Cloud Technology, Storage, Backup and Network for Enterprise Level. He has high passion on building large-scaled and high reliable infrastructure.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>Expertise</h2>
+
+<ul class="skill-list">
+	<li>Linux Administration</li>
+	<li>Cloud Infrastructure - Infrastructure as a Service</li>
+	<li>Operation and Management Automation</li>
+</ul>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Operating System:  	Linux RHEL/CentOS, Windows Server </li>
+	<li>Cloud Technology: 	VMware vCenter vSphere, KVM, Docker, Chef, OpenStack</li>
+	<li>Storage: 		NetApp NAS, 3PAR, Purestorage, Nimble SAN</li>
+	<li>Backup:  	Networker, NetBackup, Quantum Tape Library, DataDomain</li>
+	<li>Monitoring: 		Splunk, Pandora, Grafana, Elasticsearch</li>
+	<li>Server: 		HP Gen7,8,9 Server Blade, Dell PowerEdge R620,630</li>
+	<li>Languages: 		PHP, Java, SQL, JavaScript, jQuery, C</li>
+	<li>Scripting: 		Bash, PowerShell, Python, Perl</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/">Autodeploy of ESXi</a></li>
+	<li><a href="https://github.com/">ChatOps</a></li>
+	<li><a href="https://github.com/">Openstack</a></li>
+</ul>
+
+<h2>Hobby</h2>
+
+<ul>
+	<li>Darts, Squash, Marathon</li>
+	<li>Game Player - League of Legends</li>
 </ul>
