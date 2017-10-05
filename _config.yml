@@ -1,6 +1,6 @@
 # main text of home
 name: Joseph Chung 
-bio: 'Aim at being a FULLSTACK ENGINEER. Stay Hungry Stay Foolish.'
+bio: 'Aim at being a FULLSTACK ENGINEER.<br/> Stay Hungry Stay Foolish.'
 
 # if it's an external image, update below for true
 external-image: false
