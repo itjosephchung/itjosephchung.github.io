@@ -39,8 +39,8 @@ Recently, he is interested in Android Development. To be updated.
 	<li><a href="https://github.com/">Autodeploy of ESXi</a></li>
 	<li><a href="https://github.com/">ChatOps</a></li>
 	<li><a href="https://github.com/">Openstack</a></li>
-    <li><a href="">Auto Trail</li>
-    <li><a href="">Android development<li>
+    <li><a href="">Auto Trail</a></li>
+    <li><a href="">Android development</a><li>
 </ul>
 
 <h2>Hobby</h2>
