@@ -6,7 +6,10 @@ permalink: /about/index.html
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>
-As a DevOps Engineer, Joseph has over 3 years experience on different areas, including Linux & Windows Servers, Cloud Technology, Storage, Backup and Network for Enterprise Level. He has high passion on building large-scaled and high reliable infrastructure.</p>
+As a DevOps Engineer, Joseph has over many years experience on different areas, including Linux & Windows Server, Cloud Technology, Storage, Backup and Network for Enterprise Level. He has high passion on building large-scaled and high reliable infrastructure.</p>
+<p> 
+Recently, he is interested in Android Development. To be updated.
+</p>
 
 <h2>Expertise</h2>
 
@@ -14,6 +17,7 @@ As a DevOps Engineer, Joseph has over 3 years experience on different areas, inc
 	<li>Linux Administration</li>
 	<li>Cloud Infrastructure - Infrastructure as a Service</li>
 	<li>Operation and Management Automation</li>
+    <li>Operational Excellent</li>
 </ul>
 
 <h2>Skills</h2>
@@ -35,6 +39,8 @@ As a DevOps Engineer, Joseph has over 3 years experience on different areas, inc
 	<li><a href="https://github.com/">Autodeploy of ESXi</a></li>
 	<li><a href="https://github.com/">ChatOps</a></li>
 	<li><a href="https://github.com/">Openstack</a></li>
+    <li><a href="">Auto Trail</li>
+    <li><a href="">Android development<li>
 </ul>
 
 <h2>Hobby</h2>
