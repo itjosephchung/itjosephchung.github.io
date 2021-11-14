@@ -20,7 +20,7 @@ analytics-google: 'UA-MYANALYTICS'
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: hwchung0
+# facebook: hwchung0
 twitter: itjosephchung
 # google: 110838960698699742710
 instagram: itjosephchung
